@@ -4,13 +4,13 @@ about: Create a report about something that is not working
 ---
 
 #### BUG DESCRIPTION
-<!--- MANDATORY: Please describe the problem here -->
+<!-- MANDATORY -->
 
 #### STEPS TO REPRODUCE
-<!--- MANDATORY: Please describe steps to reproduce bug -->
+<!-- MANDATORY -->
 
 #### EXPECTED BEHAIVIOUR
-<!--- MANDATORY: Please describe expected behaviour -->
+<!-- MANDATORY -->
 
 #### SEVERITY
   - [x] Low
@@ -24,9 +24,18 @@ about: Create a report about something that is not working
   - [ ] High
 
 #### ENVIRONMENT
-<!--- OPTIONAL: Please define your environment configuration -->
-<!--- such as operating system, .Net sdk versions and so on -->
+<!--- OPTIONAL -->
+<!--
+
+Information about operating system,.Net sdk versions and so on
+can be added here.
+
+-->
 
 #### ADDITIONAL INFORMATION
-<!--- OPTIONAL:  you can additional information such as
-<!--- visual proofs, logs here -->
+<!-- OPTIONAL --> 
+<!--
+
+Information such as visual proofs, logs, affected areas can be added here.
+
+-->

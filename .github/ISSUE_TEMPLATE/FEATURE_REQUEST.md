@@ -7,16 +7,16 @@ about: Suggest an idea for this project
 <!-- MANDATORY: -->
 <!-- 
 
-Usefull information that can be added here:
+Information that can be added here:
   - users who will be use this feature;
   - tasks that users can perform;
-  - goals that users can achive
+  - goals that users can achive.
 
 -->
 
 #### ACCAPTANCE CRITERIA
-<!--- MANDATORY: Given-When-Then pattern is preferable -->
-
+<!--- MANDATORY: -->
+<!-- Given-When-Then pattern is preferable -->
 <!-- Example:
 
 Given current repository with branch ready for PR,
@@ -29,11 +29,11 @@ Then PR description should contain PR template
 <!-- OPTIONAL: -->
 <!-- 
 
-Examples of information that can be added here:
+Information that can be added here:
+  - proposed solutions;
+  - visual information;
+  - additional information for testers;
   - business value;
-  - time requirenments;
-  - solutions if you have any;
-  - pictures about feature;
-  - additional information for testers
+  - time requirenments.
   
 -->
