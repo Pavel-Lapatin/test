@@ -3,30 +3,30 @@ name:  Bug report
 about: Create a report about something that is not working
 ---
 
-### BUG DESCRIPTION
+#### BUG DESCRIPTION
 <!--- MANDATORY: Please describe the problem here -->
 
-### STEPS TO REPRODUCE
+#### STEPS TO REPRODUCE
 <!--- MANDATORY: Please describe steps to reproduce bug -->
 
-### EXPECTED BEHAIVIOUR
+#### EXPECTED BEHAIVIOUR
 <!--- MANDATORY: Please describe expected behaviour -->
 
-### SEVERITY
+#### SEVERITY
   - [x] Low
   - [ ] Minor
   - [ ] Major
   - [ ] Critical
 
-### PRIORITY
+#### PRIORITY
   - [x] Low
   - [ ] Medium
   - [ ] High
 
-### ENVIRONMENT
+#### ENVIRONMENT
 <!--- OPTIONAL: Please define your environment configuration -->
 <!--- such as operating system, .Net sdk versions and so on -->
 
-### ADDITIONAL INFORMATION
+#### ADDITIONAL INFORMATION
 <!--- OPTIONAL:  you can additional information such as
 <!--- visual proofs, logs here -->

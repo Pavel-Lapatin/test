@@ -3,7 +3,7 @@ name:  Feature request
 about: Suggest an idea for this project
 ---
 
-### DESCRIPTION
+#### DESCRIPTION
 <!-- MANDATORY: -->
 <!-- 
 
@@ -14,7 +14,7 @@ Usefull information that can be added here:
 
 -->
 
-### ACCAPTANCE CRITERIA
+#### ACCAPTANCE CRITERIA
 <!--- MANDATORY: Given-When-Then pattern is preferable -->
 
 <!-- Example:
@@ -25,7 +25,7 @@ Then PR description should contain PR template
 
 -->
 
-### ADDITIONAL CONTEXT
+#### ADDITIONAL CONTEXT
 <!-- OPTIONAL: -->
 <!-- 
 
@@ -34,5 +34,6 @@ Examples of information that can be added here:
   - time requirenments;
   - solutions if you have any;
   - pictures about feature;
-
+  - additional information for testers
+  
 -->
